@@ -1,0 +1,2 @@
+# smac
+my first repository
